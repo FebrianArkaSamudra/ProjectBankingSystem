@@ -60,8 +60,9 @@ public class Systembank {
                     
                     break;
                 default:
-                System.out.println("Enter the correct option!!");
+                System.out.println("Enter the correct option!");
                     break;
+                    
             }
         } 
        
